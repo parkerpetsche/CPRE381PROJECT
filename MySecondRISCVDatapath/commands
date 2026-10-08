@@ -1,0 +1,3 @@
+mem load -infile dmem.hex -format hex /tb_dmem/mem_unit/ram
+
+mem display /tb_dmem/mem_unit/ram
